@@ -5,7 +5,7 @@ Every data pack - ours, the community's, and each framework itself - carries a s
 what it needs and at what version, an optional game build, and the config files it owns. Packs whose needs are not met
 are switched off with a plain reason; the rest get one load order.
 
-From `4. plans\norse-realtime-combat-20261116\RESEARCH-more-frameworks.md` (#4); modelled on Satisfactory Mod Loader's
+From the Norse overhaul plan (#4); modelled on Satisfactory Mod Loader's
 dependency lists (version ranges, optional dependencies).
 
 ## A manifest
