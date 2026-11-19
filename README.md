@@ -39,3 +39,7 @@ file no manifest claims is a loose file and is read after every pack, so a playe
 - `tools/manifest_test.cpp` - the offline test: `xmake build manifest_test && xmake run manifest_test` (18 checks).
 - `package/NorsePacks/_NorseManifest.ini` - its own manifest; each framework ships one the same way.
 - `docs/test-packs/` - the packs of the in-game test (TEST-RESULT-0.1.0.txt).
+
+## Licence
+
+GPL-3.0-or-later (see LICENSE).
